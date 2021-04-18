@@ -3,7 +3,7 @@
 👋 Full Resource Developer (EN, GER, ES)
 
 <b>My services</b>
-- <p color="blue">(add/change/fix)</p> Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
+- <p color="blue"><u>(add/change/fix)</u></p> Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
 
 <b>Sales</b>
  - (custom) Weapons, Shields and Books
