@@ -1,6 +1,6 @@
 <h4 align="center">RESOURCE DEVELOPER (FLYFF)</h1>
 
-👋 Full Resource Developer (EN, GER, ES)
+👋 Full Resource Developer for Flyff
 
 <b>My services</b>
 - <p color="blue"><u>(add/change/fix)</u></p> Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
