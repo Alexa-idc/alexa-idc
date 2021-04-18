@@ -2,7 +2,11 @@
 
 👋 Full Resource Developer (EN, GER, ES)
 
-
+<b>Sales</b>
+ - Weapons, Shields and Books custom
+ - Fashions, Cloaks, Mask and Glasses custom
+ - Sets, Pets, Furniture and Monsters custom
+ - 
 <h5 align="center">Conctact</h1>
 <h6 align="center">Discord: <b>alexa#3214</b></div>
 <h6 align="center">Mail: <b>alexandra.medelin@gmail.com</b></div>
