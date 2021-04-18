@@ -1,12 +1,14 @@
 <h4 align="center">RESOURCE DEVELOPER (FLYFF)</h1>
 
 👋 Full Resource Developer (EN, GER, ES)
+<b>My services</b>
+- (add) Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
 
 <b>Sales</b>
- - Weapons, Shields and Books custom
- - Fashions, Cloaks, Mask and Glasses custom
- - Sets, Pets, Furniture and Monsters custom
- - 
+ - (custom) Weapons, Shields and Books
+ - (custom) Fashions, Cloaks, Mask
+ - (custom) Sets, Pets, Furniture
+ 
 <h5 align="center">Conctact</h1>
 <h6 align="center">Discord: <b>alexa#3214</b></div>
 <h6 align="center">Mail: <b>alexandra.medelin@gmail.com</b></div>
