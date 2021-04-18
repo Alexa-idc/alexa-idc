@@ -3,7 +3,7 @@
 👋 Full Resource Developer (EN, GER, ES)
 
 <b>My services</b>
-- (add) Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
+- (add/change/fix) Sets, Weapons, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
 
 <b>Sales</b>
  - (custom) Weapons, Shields and Books
