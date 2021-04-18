@@ -11,7 +11,7 @@
  - (custom) Sets, Pets, Furniture
  
 <h5 align="center">Conctact</h1>
-<h6 align="center">Discord: <b>alexa#3214</b></div>
+<h6 align="center">Discord: <b>Alexa_idc#2985</b></div>
 <h6 align="center">Mail: <b>alexandra.medelin@gmail.com</b></div>
 
 <h6 align="center"><img src="https://i.imgur.com/JWEcV44.png"></div>
