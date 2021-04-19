@@ -7,7 +7,7 @@
 
 
 
-<b>Sales</b>
+<b>#Sales</b>
  - <h4>Black Sets</h4> <img src="https://i.imgur.com/1zVlePi.png">
  - <h4>Black Weapons</h4> <img src="https://i.imgur.com/e9Knp4k.png">
  - (custom) Fashions, Cloaks, Mask
