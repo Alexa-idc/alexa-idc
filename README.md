@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/e9Knp4k.png">
 
 <b>Sales</b>
- - <h2>Black Sets</h2> <img src="https://i.imgur.com/1zVlePi.png">
+ - <h4>Black Sets</h4> <img src="https://i.imgur.com/1zVlePi.png">
  - (custom) Fashions, Cloaks, Mask
  - (custom) Sets, Pets, Furniture
  
