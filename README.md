@@ -9,7 +9,7 @@
 
 <b>#Sales</b>
  - <h4><a href="https://github.com/Alexa-idc/black-sets-flyff">Black Sets</a></h4> <img src="https://i.imgur.com/1zVlePi.png">
- - <h4><a href="https://github.com/Alexa-idc/black-sets-flyff"></a></h4> <img src="https://i.imgur.com/e9Knp4k.png">
+ - <h4><a href="https://github.com/Alexa-idc/black-sets-flyff">Black Weapons</a></h4> <img src="https://i.imgur.com/e9Knp4k.png">
  - (custom) Fashions, Cloaks, Mask
  - (custom) Sets, Pets, Furniture
  
