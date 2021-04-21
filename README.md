@@ -1,6 +1,6 @@
 <h4 align="center">RESOURCE DEVELOPER (FLYFF)</h1>
 
-👋 Full Resource Developer for Flyff
+<b>My Discord: Alexa_idc#2985</b>
 
 <b>My services</b>
 - <b>(add/change/fix bugs)</b> Sets, Weapons, Status, Accessories, Upgrades, Awakenings, Fashions, Pets, Cloaks, Glasses, Mask, Flyings, Events, Maps, Channel, Monsters, Bosses, Dungeons, Tickets, Quests, Buffs, Skills, and more...
