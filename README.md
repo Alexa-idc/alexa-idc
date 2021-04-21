@@ -12,7 +12,7 @@
  - <h4><a href="https://github.com/Alexa-idc/black-sets-weapons-flyff">Black Weapons</a></h4> <img src="https://i.imgur.com/e9Knp4k.png">
  - <h4><a href="https://github.com/Alexa-idc/wise-dragon-mask-flyff">Wise Dragon Mask</a></h4> <img src="https://i.imgur.com/ox9zX62.png">
  - <h4><a href="https://github.com/Alexa-idc/cactus-flyff">Cactus</a></h4> <img src="https://i.imgur.com/lOoZGhY.png">
- - <h4><a href="https://github.com/Alexa-idc/axe-colored-flyff">Colored Axes</a></h4> <img src="https://i.imgur.com/5zq3NM8.png">
+ - <h4><a href="https://github.com/Alexa-idc/colored-weapons-flyff">Colored Axes</a></h4> <img src="https://i.imgur.com/5zq3NM8.png">
  - <h4><a href="https://github.com/Alexa-idc/colored-weapons-flyff">Colored Swords</a></h4> <img src="https://i.imgur.com/UtXQuk3.png">
  - <h4><a href="https://github.com/Alexa-idc/colored-weapons-flyff">Colored Knuckles</a></h4> <img src="https://i.imgur.com/yCuyWHY.png">
  - <h4><a href="https://github.com/Alexa-idc/colored-weapons-flyff">Colored Sticks</a></h4> <img src="https://i.imgur.com/RSS6z0F.png">
