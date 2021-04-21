@@ -13,8 +13,15 @@
  - <h4><a href="https://github.com/Alexa-idc/wise-dragon-mask-flyff">Wise Dragon Mask</a></h4> <img src="https://i.imgur.com/ox9zX62.png">
  - <h4><a href="https://github.com/Alexa-idc/cactus-flyff">Cactus</a></h4> <img src="https://i.imgur.com/lOoZGhY.png">
  - <h4><a href="https://github.com/Alexa-idc/axe-colored-flyff">Colored Axes</a></h4> <img src="https://i.imgur.com/5zq3NM8.png">
- - (custom) Fashions, Cloaks, Mask
- - (custom) Sets, Pets, Furniture
+ - <h4><a href="#">Colored Swords</a></h4> <img src="https://i.imgur.com/UtXQuk3.png">
+ - <h4><a href="#">Colored Knuckles</a></h4> <img src="https://i.imgur.com/yCuyWHY.png">
+ - <h4><a href="#">Colored Sticks</a></h4> <img src="https://i.imgur.com/RSS6z0F.png">
+ - <h4><a href="#">Colored Bows</a></h4> <img src="https://i.imgur.com/94FEhhI.png">
+ - <h4><a href="#">Colored Yoyo's</a></h4> <img src="https://i.imgur.com/kHr0Bjp.png">
+ - <h4><a href="#">Colored Wands</a></h4> <img src="https://i.imgur.com/8c9Z5Tg.png">
+ - <h4><a href="#">Colored Staffs</a></h4> <img src="https://i.imgur.com/yhmEqIQ.png">
+ - <h4><a href="#">Colored AxeT</a></h4> <img src="https://i.imgur.com/d1DL7fy.png">
+ - <h4><a href="#">Colored Sworts</a></h4> <img src="https://i.imgur.com/DRFdtDN.png">
  
 <h5 align="center">Conctact</h1>
 <h6 align="center">Discord: <b>Alexa_idc#2985</b></div>
