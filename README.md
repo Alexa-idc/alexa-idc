@@ -17,9 +17,6 @@
  - <h4><a href="https://github.com/Alexa-idc/black-sets-weapons-flyff">Black Sets</a></h4> <img src="https://i.imgur.com/1zVlePi.png">
  - <h4><a href="https://github.com/Alexa-idc/black-sets-weapons-flyff">Black Weapons</a></h4> <img src="https://i.imgur.com/e9Knp4k.png">
  
-<h5 align="center">Conctact</h1>
-<h6 align="center">Discord: <b>Alexa_idc#2985</b></div>
-
 <h6 align="center"><img src="https://i.imgur.com/JWEcV44.png"></div>
 <!---
 You can click the Preview link to take a look at your changes.
