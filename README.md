@@ -2,7 +2,6 @@
 
 <b>My Discord: !Alexa_idc#2985</b>
 
-<b>#Sales</b>
  - <h4><a href="https://github.com/Alexa-idc/wise-dragon-mask-flyff">Wise Dragon Mask</a></h4> <img src="https://i.imgur.com/ox9zX62.png">
  - <h4><a href="https://github.com/Alexa-idc/cactus-flyff">Cactus</a></h4> <img src="https://i.imgur.com/lOoZGhY.png">
  - <h4><a href="https://github.com/Alexa-idc/colored-weapons-flyff">Colored Axes</a></h4> <img src="https://i.imgur.com/5zq3NM8.png">
